@@ -16,4 +16,4 @@ Products purchasing patterns
 Emails opening numbers
 
 
-Others engagement metrics
+Others engagement metrics;
